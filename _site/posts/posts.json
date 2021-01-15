@@ -5,15 +5,15 @@
     "description": "Welcome to our new blog, How Driving Works. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Umair Durrani",
+        "url": "https://udurrani.netlify.app/"
       }
     ],
     "date": "2021-01-14",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-01-14T16:07:47-05:00",
-    "input_file": {}
+    "last_modified": "2021-01-14T19:04:10-05:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
