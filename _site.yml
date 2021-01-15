@@ -8,5 +8,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "About"
-      href: about.html
-output: distill::distill_article
+      href: https://udurrani.netlify.app/
+output: 
+  distill::distill_article:
+    css: styles.css

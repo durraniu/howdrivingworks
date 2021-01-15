@@ -1,5 +1,15 @@
 ---
-title: "How Driving Works"
+title: "Blog"
 site: distill::distill_website
 listing: posts
 ---
+
+
+<div class='index-title' style="">
+# How Driving Works
+</div>
+
+```{r, echo=FALSE, out.width="75%", fig.align='center'}
+knitr::include_graphics(path = "carview.gif")
+```
+
